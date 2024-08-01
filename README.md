@@ -4,7 +4,7 @@ Welcome to the Sorting Visualizer repository! This project, developed in June 20
 ## Project Overview
 The Sorting Visualizer showcases the following six algorithms:
 
- “*” Bubble Sort
+ * Bubble Sort
 Selection Sort
 Insertion Sort
 Merge Sort
