@@ -23,11 +23,11 @@ Getting Started
 To explore the Sorting Visualizer locally, follow these steps:
 
 Clone the repository:
-
-sh
-Copy code
+```ruby
 git clone https://github.com/your-username/Sorting_Visualizer-master.git
 cd Sorting_Visualizer-master
+```
+
 Open the index.html file in your browser.
 
 Contributions
