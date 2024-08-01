@@ -1,10 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
-
+/*remember*/
 /*
 Variable naming convention: <object>_<action>_<objectname>; Example -> Button_click_b1;
 */
@@ -91,10 +85,3 @@ function runalgo()
                         break;
     }
 }
-
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
