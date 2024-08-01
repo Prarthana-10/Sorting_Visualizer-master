@@ -4,7 +4,7 @@ Welcome to the Sorting Visualizer repository! This project, developed in June 20
 ## Project Overview
 The Sorting Visualizer showcases the following six algorithms:
 
-Bubble Sort
+ “*”Bubble Sort
 Selection Sort
 Insertion Sort
 Merge Sort
@@ -18,6 +18,9 @@ Real-Time Complexity Calculation: Get immediate feedback on the time and space c
 Wide Range of Data Sets: Test sorting algorithms on arrays of various sizes, from 10 to 150 elements.
 Deployment
 The project is deployed and accessible at: Sorting Visualizer
+
+## Deployment
+The project is deployed and accessible at: [Sorting Visualizer](https://prarthana-10.github.io/Sorting_Visualizer-master/)
 
 ## Getting Started:
 To explore the Sorting Visualizer locally, follow these steps:
